@@ -1,6 +1,6 @@
 </br>
 <div align="center">
-  <img src="assets/CapaAlura.png" width="98%" />
+  <img src="assets/CapaAlura.png" width="100%" />
 </div>
 </br>
 
